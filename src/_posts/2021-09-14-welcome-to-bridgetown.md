@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your First Post on Bridgetown"
+title:  "Your First Post on Bridgetown POST IT NOW!"
 date:   2021-09-14 08:38:07 -0300
 categories: updates
 ---
