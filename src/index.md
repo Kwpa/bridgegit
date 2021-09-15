@@ -4,4 +4,4 @@
 layout: home
 ---
 
-Welcome to BridgeGit 2!
+Welcome to BridgeGit 3!
