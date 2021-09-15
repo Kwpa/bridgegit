@@ -15,7 +15,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
-url: "https://kwpa.github.io/bridgegit/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://kwpa.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+base_path: "/bridgegit"
 
 permalink: pretty
 
